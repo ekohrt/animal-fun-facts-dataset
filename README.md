@@ -10,7 +10,7 @@ Columns:
 - *source*: Link to the page where this fact was found.  
 - *text*: Text of the animal fact.
 - *media_link*: r/Awwducational posts often have a photo or video included for context.  
-- *wikipedia_link*: Shortened wikipedia url for this animal (ex. https://en.wikipedia.org/wiki/Aardvark shortened to /wiki/Aardvark). These were hand-labeled by me, a non-expert, so treat it as a best guess. Some values mising. Many pages refer to broad taxonomical groups instead of individual species. Possibly useful for finding scientific classification and merging duplicate animal names, or for scraping additional information.
+- *wikipedia_link*: Shortened wikipedia url for this animal (ex. https://en.wikipedia.org/wiki/Aardvark shortened to /wiki/Aardvark). These were hand-labeled by me, a non-expert, so treat it as a best guess. Some values missing. Many pages refer to broad taxonomical groups instead of individual species. Possibly useful for finding scientific classification and merging duplicate animal names, or for scraping additional information.
 
 Sources:
 - FactAnimal [3361]: https://factanimal.com/animals/
